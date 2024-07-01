@@ -1,0 +1,14 @@
+D:\shivam\excel\resume projects\data warehouse\ssas_aw_cube\ssas_aw_cube\bin\Model.asdatabase
+D:\shivam\excel\resume projects\data warehouse\ssas_aw_cube\ssas_aw_cube\bin\Model.deploymenttargets
+D:\shivam\excel\resume projects\data warehouse\ssas_aw_cube\ssas_aw_cube\bin\Model.deploymentoptions
+D:\shivam\excel\resume projects\data warehouse\ssas_aw_cube\ssas_aw_cube\obj\Development\ssas_aw_cube.smproj.CoreCompileInputs.cache
+D:\shivam\excel\resume projects\data warehouse\ssas_aw_cube\ssas_aw_cube\obj\Development\Model.asdatabase
+D:\shivam\excel\resume projects\data warehouse\ssas_aw_cube\ssas_aw_cube\obj\Development\Model.deploymentoptions
+D:\shivam\excel\resume projects\data warehouse\ssas_aw_cube\ssas_aw_cube\obj\Development\Model.deploymenttargets
+D:\shivam\excel\resume projects\data warehouse\DB_Scripts\ssas_aw_cube\ssas_aw_cube\bin\Model.asdatabase
+D:\shivam\excel\resume projects\data warehouse\DB_Scripts\ssas_aw_cube\ssas_aw_cube\bin\Model.deploymenttargets
+D:\shivam\excel\resume projects\data warehouse\DB_Scripts\ssas_aw_cube\ssas_aw_cube\bin\Model.deploymentoptions
+D:\shivam\excel\resume projects\data warehouse\DB_Scripts\ssas_aw_cube\ssas_aw_cube\obj\Development\ssas_aw_cube.smproj.CoreCompileInputs.cache
+D:\shivam\excel\resume projects\data warehouse\DB_Scripts\ssas_aw_cube\ssas_aw_cube\obj\Development\Model.asdatabase
+D:\shivam\excel\resume projects\data warehouse\DB_Scripts\ssas_aw_cube\ssas_aw_cube\obj\Development\Model.deploymentoptions
+D:\shivam\excel\resume projects\data warehouse\DB_Scripts\ssas_aw_cube\ssas_aw_cube\obj\Development\Model.deploymenttargets
