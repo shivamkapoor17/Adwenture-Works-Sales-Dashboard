@@ -1,4 +1,4 @@
-# Data Warehouse/Adwenture-Works-Sales-Dashboard
+# Data Warehouse/Adventure-Works-Sales-Dashboard
 
 View Live Dashboard:
 
